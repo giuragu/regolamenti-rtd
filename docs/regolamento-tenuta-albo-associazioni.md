@@ -52,7 +52,7 @@ c) le associazioni che hanno come finalità la tutela economica diretta degli as
 
 ## ART.5 - DOMANDA DI ISCRIZIONE
 
-La domanda di iscrizione all'Albo delle Associazioni comunali, redatta in carta semplice sull’  Allegato Modello A e sottoscritta dal legale rappresentante, recante l’indicazione di tutti gli elementi  di individuazione dell’Associazione, delle generalità del Legale Rappresentante e della Sezione  dell'Albo in cui si intende essere iscritti, nonché i dati identificativi del Conto Corrente dedicato  intestato all'Associazione, dovrà essere presentata all'Ufficio del Protocollo del Comune o trasmessa  a mezzo PEC all' indirizzo: [comunesangiuseppejato@pec.it](mailto: comunesangiuseppejato@pec.it).  
+La domanda di iscrizione all'Albo delle Associazioni comunali, redatta in carta semplice sull’  Allegato Modello A e sottoscritta dal legale rappresentante, recante l’indicazione di tutti gli elementi  di individuazione dell’Associazione, delle generalità del Legale Rappresentante e della Sezione  dell'Albo in cui si intende essere iscritti, nonché i dati identificativi del Conto Corrente dedicato  intestato all'Associazione, dovrà essere presentata all'Ufficio del Protocollo del Comune o trasmessa  a mezzo PEC all' indirizzo: [comunesangiuseppejato@pec.it](comunesangiuseppejato@pec.it).
 La modulistica è scaricabile dal sito del Comune [www.comune.sangiuseppejato.pa.it](www.comune.sangiuseppejato.pa.it) 
 Alla domanda dovranno essere allegati i seguenti documenti:  
 - copia dello Statuto o dell'Atto Costitutivo e/o accordo degli aderenti;  
