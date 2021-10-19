@@ -1,12 +1,12 @@
 ## Project information
-site_name: Regolamento del Bilancio in Democrazia Partecipata del Comune di San Giuseppe Jato
-site_url: https://regolamento-bilancio-democrazia-partecipata-sangiuseppejato.readthedocs.io/it/latest/
-site_description: Regolamento del Bilancio in Democrazia Partecipata del Comune di San Giuseppe Jato
+site_name: Raccolta di Regolamenti del Comune di San Giuseppe Jato
+site_url: https://regolamenti-rtd.readthedocs.io/en/latest/
+site_description: Raccolta di Regolamenti del Comune di San Giuseppe Jato
 site_author: Giuseppe Ragusa
 
 ## Repository
-# repo_url: https://github.com/giuragu/regolamento-bilancio-democrazia-partecipata-sangiuseppejato
-# repo_name: regolamento-bilancio-democrazia-partecipata-sangiuseppejato
+# repo_url: https://github.com/giuragu/rtd
+# repo_name: rtd
 # edit_uri: edit/master/docs/
 
 ## Configuration
@@ -100,23 +100,15 @@ extra_css:
 extra_javascript:
    - stylesheets/extra.js
 
- disqus: ods-mkdocs-material
-##  ods-mkdocs-material è lo <shortname> legato a Disqus
-
 ## Social Media
 extra:
-## Come inserire i commenti di Disqus https://squidfunk.github.io/mkdocs-material/setup/adding-a-comment-system/#other-comment-systems
-## Crea accont e sito shortname https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-## disqus: <shortname>
-  disqus: reg-dem-part-sgj
-##  reg-dem-part-sgj è lo <shortname> legato a Disqus
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/giuragu/regolamento-bilancio-democrazia-partecipata-sangiuseppejato
+      link: https://github.com/giuragu/regolamenti-rtd
     - icon: fontawesome/solid/envelope
       link: mailto:comunesangiuseppejato@pec.it
     - icon: fontawesome/solid/book
-      link: https://readthedocs.org/projects/regolamento-bilancio-democrazia-partecipata-sangiuseppejato
+      link: https://readthedocs.org/projects/regolamenti-rtd
   
 ## setting dal progetto originale https://github.com/up42/up42-py/blob/master/mkdocs.yml + https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
 
