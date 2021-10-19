@@ -1,4 +1,4 @@
-# REGOLAMENTO PER L'ISTITUZIONE E LA TENUTA DELL'ALBO COMUNALE DELLE ASSOCIAZIONI E DEL VOLONTARIATO
+# Regolamento per l'istituzione e la tenuta dell'albo comunale delle associazioni e del volontariato
 
 ## ART.1 - FINALITA'  
 
@@ -24,8 +24,9 @@ L'Albo è suddiviso nelle seguenti sezioni tematiche:
 • Beni Culturali: Attività finalizzate alla promozione e valorizzazione dei beni culturali,  archeologici, storici, delle tradizioni locali e celebrative religiose;  
 • Sviluppo Economico: Interventi finalizzati a sostenere e promuovere i settori economici di  maggiore rilevanza e quelli in via di sviluppo;  
 • Promozione e sviluppo del turismo: interventi finalizzati alla promozione dell’immagine del  Comune, del suo territorio e delle sue peculiarità paesaggistiche, storiche, delle sue  tradizioni popolari e socio- culturali e del patrimonio artistico, monumentale e produttivo ai  fini dello sviluppo del turismo.  
-ART.4  
-REQUISITI PER L'ISCRIZIONE ALL'ALBO  
+
+## ART.4 - REQUISITI PER L'ISCRIZIONE ALL'ALBO  
+
 Possono presentare domanda di iscrizione ali'Albo comunale di cui all'art. 2, tutte le associazioni  riconosciute e non riconosciute come persone giuridiche, senza finalità di lucro, regolarmente  costituite ai sensi D.Lgs.n° 117 del 3 Luglio 2017, che operano nell'ambito delle tematiche di cui  all'art. 3.  
 Le associazioni devono essere costituite con atto scritto, svolgere effettivamente attività di  promozione sociale ed essere dotate di autonomia finanziaria e contabile.  
 Tali organizzazioni associative, regolarmente costituite nelle forme e nei modi previsti dalle leggi e dai regolamenti vigenti devono:  
@@ -48,10 +49,11 @@ Non possono iscriversi all’Albo:
 a) i partiti politici;  
 b) le associazioni sindacali, gli ordini professionali e di categoria;  
 c) le associazioni che hanno come finalità la tutela economica diretta degli associati;  d) i movimenti e le associazioni che abbiano presentato proprie liste alle elezioni politiche e/o a quelle  amministrative.  
-ART.5  
-DOMANDA DI ISCRIZIONE  
-La domanda di iscrizione all'Albo delle Associazioni comunali, redatta in carta semplice sull’  Allegato Modello A e sottoscritta dal legale rappresentante, recante l’indicazione di tutti gli elementi  di individuazione dell’Associazione, delle generalità del Legale Rappresentante e della Sezione  dell'Albo in cui si intende essere iscritti, nonché i dati identificativi del Conto Corrente dedicato  intestato all'Associazione, dovrà essere presentata all'Ufficio del Protocollo del Comune o trasmessa  a mezzo PEC all' indirizzo: protocollopec.comune.sangiuseppejato.pa.it.  
-La modulistica è scaricabile dal sito del Comune www.comune.sangiuseppejato.pa.it 
+
+## ART.5 - DOMANDA DI ISCRIZIONE
+
+La domanda di iscrizione all'Albo delle Associazioni comunali, redatta in carta semplice sull’  Allegato Modello A e sottoscritta dal legale rappresentante, recante l’indicazione di tutti gli elementi  di individuazione dell’Associazione, delle generalità del Legale Rappresentante e della Sezione  dell'Albo in cui si intende essere iscritti, nonché i dati identificativi del Conto Corrente dedicato  intestato all'Associazione, dovrà essere presentata all'Ufficio del Protocollo del Comune o trasmessa  a mezzo PEC all' indirizzo: [comunesangiuseppejato@pec.it](mailto: comunesangiuseppejato@pec.it).  
+La modulistica è scaricabile dal sito del Comune [www.comune.sangiuseppejato.pa.it](www.comune.sangiuseppejato.pa.it) 
 Alla domanda dovranno essere allegati i seguenti documenti:  
 - copia dello Statuto o dell'Atto Costitutivo e/o accordo degli aderenti;  
 - dichiarazione del legale rappresentante indicante la sussistenza del requisiti di cui all'art.4 del  presente regolamento;  
@@ -65,8 +67,9 @@ nazionali/regionali/provinciali previsti dalla legge, per le associazioni di vol
 - per le Associazioni a carattere nazionale/regionale/provinciale che svolgono, tramite una loro  sezione, attività in ambito comunale è richiesta copia dello statuto sovracomunale e  l'attestazione sottoscritta dal legale rappresentante. 
 Le domande di iscrizione possono essere presentate in qualsiasi periodo dell'anno.  
 Esse hanno validità sino alla persistenza di tutti i requisiti richiesti per l'iscrizione ed it mantenimento  nell'Albo.  
-Art.6  
-PROCEDIMENTO DI ISCRIZIONE E AGGIORNAMENTO ALBO  
+
+## Art.6 - PROCEDIMENTO DI ISCRIZIONE E AGGIORNAMENTO ALBO  
+
 Il Soggetto Comunale Responsabile ad assumere le determinazioni relative agli ambiti di applicazione  del presente Regolamento e ad adottare i relativi atti amministrativi è il Responsabile del Settore 1- Affari Generali - Servizi Sociali (da ora in poi Responsabile).  
 II Responsabile, verificato il possesso dei requisiti del richiedente, provvede con propria  determinazione dirigenziale all'iscrizione dell'associazione e all'aggiornamento dell’Albo entro 60  giorni dalla data di protocollazione delta richiesta.  
 Decorso tale termine, senza che sia intervenuta relativa decisione, la richiesta si intende respinta.  
@@ -75,34 +78,40 @@ Il provvedimento di iscrizione o di reiezione delta domanda viene notificato at 
 Contro l'esclusione dall'Albo è possibile presentare ricorso in opposizione at Responsabile entro 30  giorni dal ricevimento delta relativa comunicazione il quale, entro i successivi 30 giorni, provvederà a redigere una proposta motivata di accoglimento o respingimento dell'opposizione da sottoporre alla  Giunta Municipale. L'esito dell'opposizione dovrà essere notificato all'interessato entro I successivi 15 giorni.  
 Con periodicità annuale il Responsabile provvede alla revisione generate dell'Albo.  
 Net caso di fusione/aggregazione tra diverse associazioni già iscritte all'Albo comunale, ai fini  dell'iscrizione delta stessa all'Albo medesimo saranno considerati i requisiti riguardanti le singole  associazioni che compongono l'aggregazione. Tale nuova unione comporta la cancellazione delle  singole associazioni dall'Albo.  
-Art.7  
-OBBLIGHI DELLE ASSOCIAZIONI ISCRITTE ALL'ALBO  
+
+## Art.7 - OBBLIGHI DELLE ASSOCIAZIONI ISCRITTE ALL'ALBO  
+
 Le associazioni iscritte all'Albo comunale hanno l'obbligo di comunicare, net termine di trenta giorni dal loro verificarsi, ogni variazione occorsa alle informazioni contenute nella domanda di iscrizione. Entro il 15 Novembre di ogni anno successivo a quello di iscrizione, le Associazioni iscritte all'Albo comunale devono presentare:  
  - una relazione sulle attività svolte nell’'ultimo esercizio sociale immediatamente successivo  alt'iscrizione;  
  - aggiornamento sul numero dei soci;  
  - copia del bilancio consuntivo dell’ultimo esercizio approvato, dal quale devono risultare i beni, 
 i contribuiti ed ogni altra forma di reperimento di risorse, oltre alle modalità di approvazione  dello stesso da parte dell'assemblea degli aderenti all'associazione.  
 L'iscrizione all'elenco non attribuisce alle associazioni il diritto di utilizzare o riprodurre lo stemma  comunale nei propri strumenti di comunicazione o di informazione, tranne per le iniziative condivise  ed autorizzate dall'Amministrazione.  
-Art.8  
-CANCELLAZIONE DALL'ALBO  
+
+## Art.8 - CANCELLAZIONE DALL'ALBO  
+
 Qualora l'associazione iscritta all'albo perda uno dei requisiti necessari di cui all'art.4, o non  provveda alle incombenze di cui all'art. 7 per un biennio consecutivo, si procede alla cancellazione  d'ufficio dall'Albo.  
 La cancellazione d'ufficio dall'Albo è prevista anche per le associazioni che non potranno  documentare alcuna attività nell'arco di un biennio successivo all'iscrizione.  
 Quando disposta d'ufficio, la cancellazione è preceduta da istruttoria ed eventuale contraddittorio con  l'organizzazione interessata.  
 La cancellazione dall'albo comporta la risoluzione dei rapporti convenzionali in atto.  L'associazione nei confronti della quale è stata disposta la cancellazione, ricorrendone i presupposti,  può ripresentare domanda di iscrizione all'Albo trascorso un anno dalia data di cancellazione.  La cancellazione dall'Albo Comunale avviene, altresì, in qualunque momento, su richiesta scritta  dell' Associazione.  
-Art.9  
-DIRITTI DELLE ASSOCIAZIONI  
+
+## Art.9 - DIRITTI DELLE ASSOCIAZIONI  
+
 Alle Associazioni iscritte all'Albo sono riconosciuti i diritti ed i benefici specificatamente previsti  dallo Statuto comunale ed in particolare i'iscrizione all'Albo costituisce condizione preferenziale:  - per accedere alla concessione di contributi, sovvenzioni e vantaggi economici secondo quanto  previsto dall'apposito regolamento comunale;  
 - per la stipula di convenzioni con il Comune di San Giuseppe Jato;  
 - per la concessione del patrocinio gratuito dell'Ente;  
 - per l’utilizzo di immobili ed attrezzature comunali secondo quanto previsto dall'apposito  regolamento comunale.  
 Inoltre, su richiesta scritta, l'associazione può accedere alle informazione sulla programmazione  dell'Ente relativa ai settori nei quali opera.  
-Art.1O  
-PUBBLICITA'  
+
+## Art.1O - PUBBLICITA'  
+
 L'Amministrazione comunale al fine di agevolare l'effettiva conoscenza da parte delle associazioni  dell'avvenuta istituzione dell'Albo delle Associazioni, dei requisiti e delle modalità di iscrizione,  assicura la massima pubblicità (sia all'albo pretorio, sia sul sito web istituzionale dell'Ente o con  eventuale altro idoneo mezzo di comunicazione).  
-Art.11  
-ENTRATA IN VIGORE  
-Ii presente regolamento entra in vigore il giorno successivo a quello in cui ê divenuta esecutiva ad  ogni effetto la deliberazione della sua adozione. 
-ART.12  
-DISPOSIZIONI FINALI  
+
+## Art.11 - ENTRATA IN VIGORE  
+
+Il presente regolamento entra in vigore il giorno successivo a quello in cui ê divenuta esecutiva ad  ogni effetto la deliberazione della sua adozione. 
+
+## ART.12 - DISPOSIZIONI FINALI  
+
 Per quanto non previsto nel presente Regolamento, trovano applicazione, in quanto applicabili, le  leggi ed I regolamenti vigenti in materia. 
 
