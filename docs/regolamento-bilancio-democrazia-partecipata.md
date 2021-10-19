@@ -1,5 +1,7 @@
 # Regolamento del Bilancio in Democrazia Partecipata del Comune di San Giuseppe Jato
 
+[**Regolamento**](https://www.comune.sangiuseppejato.pa.it/amministrazione_trasparente/disposizioni_generali/Atti_generali/atti-amministrativi-generali/Regolamento%20democrazia%20partecipata.pdf) **approvato con Deliberazione di Consiglio Comunale n. 41 del 30/07/2018**
+
 ## Riferimenti Normativi
 
 1. Legge Regionale del 28.01.2014, n.5 - “*Disposizioni programmatiche e correttive per l’anno 2014. Legge di stabilità regionale.*”
