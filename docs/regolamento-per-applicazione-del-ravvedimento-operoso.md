@@ -50,8 +50,14 @@ del cd "ravvedimento lunghissimo", che prevede sanzioni pari ad 1/7 del minimo (
 Inoltre è possibile usufruire del "ravvedimento operoso" in caso di omessa presentazione della  dichiarazione, versando una sanzione pari ad 1/10 de1 minimo (10% o 1 2% a seconda del tipo di  dichiarazione), a condizione che questa venga presentata entro 90 giorni dalla scadenza (D.Lgs. 472/97,  art. 13, c. 1, lett. c). 
 
 
-INSERIRE TABELLA
-
+Momento del ravvedimento|Sanzione edittale|Riduzione da ravvedimento|Sanzione ridotta per ravvedimento
+---|------|----------|------
+entro i primi 14 giorni|15%|1/10|0,1% per ogni giorno di ritardo
+dal 5º al 30º giorno|15%|1/10|1,5%
+dal 31 ° al 90º giorno|15%|1/9|1,67%
+dal 91º giorno al termine di  presentazione della dichiarazione|30%|1/8|3,75%
+entro il termine di presentazione della dichiarazione successiva|30%|1/7|4,29%
+oltre il termine di presentazione  della dichiarazione successiva|30%|1/6|5%
 
 
 ### Art. 6 - Ravvedimento parziale 
