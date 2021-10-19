@@ -1,126 +1,62 @@
-# Regolamento del Bilancio in Democrazia Partecipata del Comune di San Giuseppe Jato
+# Regolamento per l'applicazione del ravvedimento operoso
 
-[Regolamento](https://www.comune.sangiuseppejato.pa.it/amministrazione_trasparente/disposizioni_generali/Atti_generali/atti-amministrativi-generali/Regolamento%20democrazia%20partecipata.pdf) approvato con Deliberazione di Consiglio Comunale n. 41 del 30/07/2018
+[Regolamento](https://www.comune.sangiuseppejato.pa.it/amministrazione_trasparente/disposizioni_generali/Atti_generali/atti-amministrativi-generali/regolamento%20ravvedimento%20operoso%20SGJ%20pdf.pdf) approvato con Deliberazione di C.C. della Commissione Straordinaria n. 7 del 09/09/2021
 
-## Riferimenti Normativi
+TITOLO I 
+DISPOSIZIONI GENERALI 
+Art. 1 
+Oggetto del regolamento 
+1. Il presente regolamento disciplina le modalità per l'applicazione dell'istituto del ravvedimento  operoso, introdotto dall'articolo 13, del D. Lgs. 18 dicembre 1997, n. 472 e s.m.i.; 2. Il ‘ravvedimento operoso’ consiste nella possibilità di regolarizzare le violazioni ed omissioni  tributarie prima che le stesse siano constatate o siano iniziate ispezioni o verifiche od altre  attività amministrative di cui l'autore della violazione abbia avuto formale conoscenza — in via  spontanea, con il versamento di sanzioni ridotte, il cui importo varia in relazione alla  tempestività de1 ravvedimento ed al tipo di violazioni commesse. Il ravvedimento operoso  rappresenta un evidente strumento teso a deflazionare il contenzioso di natura tributaria. 
+Art. 2 
+Scopo ed efficacia del regolamento 
+1. Il regolamento è adottato nell'ambito della potestà regolamentare riconosciuta ai Comuni, in  conformità all'art. 52 de1 D. Lgs. 15 dicembre 1997, n. 446, nonché nel rispetto dell'articolo 3 e  dell'articolo 7 del D.Lgs. 267 del 18 agosto 2000, e di ogni altra disposizione normativa di  riferimento. 
+2. La presente disciplina è applicata nel rispetto delle esigenze di semplificazione degli adempimenti  dei contribuenti/utenti, con obiettivi di equità, efficacia, economicità e trasparenza nell'attività  amministrativa, nello spirito di tutela dell'affidamento, al fine di agevolare la riscossione delle  entrate comunali. 
+3. Nell'ottica del pieno rispetto della cosiddetta “tax compliance”, ossia nell'adempimento spontaneo  del contribuente, viene messa in campo l'attività di controllo ln capo all'ente comunale che  avviene attraverso i principi sanciti dalla Legge 27 Luglio 2000, n. 212 (Statuto dei diritti del  Contribuente). 
+4. Restano salve le norme contenute nei regolamenti dell'ente, siano essi di carattere tributario o  meno.
+TITOLO II 
+MODALITA’ DI APPLICAZIONE DEL RAVVEDIMENTO OPEROSO 
+Art. 3 
+Entrate per le quali è applicabile il ravvedimento operoso 
+1. L’istituto del ravvedimento operoso, disciplinato da1 presente regolamento, può essere applicato alle seguenti entrate comunali: 
+a. Imposta Municipale Propria (IMU, 
+b. Tassa sui servizi indivisibili (TASI), 
+c. Tributo sui rifiuti (T.A.R.S.U.),TARES,TARI), 
+d. Tassa per l'occupazione di spazi ed aree pubbliche (T.O.S.A.P.), 
+e. Imposta di pubblicità e diritto sulle pubbliche affissioni, 
+2. Non può essere adottato il ravvedimento operoso ne1 caso in cui il competente ufficio tributi/entrate abbia già provveduto alla notifica dell'atto con cui viene accertata la violazione da parte del contribuente. 
+Art. 4 
+Violazioni sanabili con il ravvedimento operoso 
+1. L’istituto del ravvedimento operoso può essere adottato per: 
+a. violazioni derivanti da omessi versamenti, 
+b. violazioni relative a parziali versamenti, 
+c. violazioni per omessa presentazione della dichiarazione. 
+2. La violazione per omessa presentazione della dichiarazione è sottoposta alla seguente previsione: Invio della tardiva denuncia, attraverso la quale si sana la violazione, entro 90 giorni dal termi eultimo previsto per l'originaria presentazione; 
+Saranno considerate omesse le denunce pervenute dopo i 90 giorni. 
+Art. 5 
+Misura delle sanzioni ridotte 
+Gli artt. 15 e 16 del D.Lgs. 24 settembre 2015, n. 158 (Revisione del sistema sanzionatorio), la cui  entrata in vigore è stata anticipata al lº gennaio 2016 dal comma 133 dell'art. 1 della legge 28 dicembre  2015, n. 208 (Legge di stabilità per l'anno 2016), hanno apportato ulteriori modifiche all'istituto del  "ravvedimento operoso", già profondamente rinnovato con la legge di stabilità per il 2015, in particolare  riducendo l'importo della sanzione minima (dal 30% al 15%), da prendere a base per il calcolo  esclusivamente nelle fattispecie di ravvedimento effettuato entro 90 giorni. Per cui, dal lº gennaio 2016,  per sanare irregolarità nel versamento di imposte, si può usufruire: 
+del cd "ravvedimento sprint" (D.Lgs, 471/97, art. 13, c. 1, 3º periodo), che prevede sanzioni pari a  0,1% (1/15 di 1/10 del 15%) per ogni giorno di ritardo, a condizione che il versamento sia eseguito  entro 14 giorni da1l'omissione; 
+del cd "ravvedimento breve" (D.Lgs. 472/97, art. 13, c. 1, lett. a), coordinato con D.Lgs, 471/97, art.  13, c. 1, 2º periodo), che prevede sanzioni pari ad 1/10 del minimo (1,50%), a condizione che il  versamento sia eseguito entro 30 giorni da11'omissione; del cd "ravvedimento intermedio" (D.Lgs. 472/97, art. 13, c. 1, lett. a-bis), coordinato con D.Lgs,  471/97, art. 13, c. 1, 2º periodo), che prevede sanzioni pari ad 1/9 del minimo (1,67%), a condizione  che il versamento sia eseguito entro 90 giorni da1l'omissione o dall'errore, ovvero, per le omissioni e gli  errori commessi in dichiarazione, entro 90 giorni dal termine per la presentazione
+della dichiarazione in cui l'omissione o l'errore è stato commesso; del cd "ravvedimento lungo" (D.Lgs. 472/97, art. 13, c. 1, lett. b), che prevede sanzioni pari ad 1/8 del  minimo (3,75%), a condizione che il versamento sia eseguito entro il termine per la presentazione della  dichiarazione relativa all'anno nel corso del quale è stata commessa la violazione, ovvero, se non è  prevista dichiarazione periodica, entro un anno dall'omissione o da11'errore; 
+del cd "ravvedimento lunghissimo", che prevede sanzioni pari ad 1/7 del minimo (4,29%), a  condizione che il versamento sia eseguito entro il termine per la presentazione della dichiarazione  relativa all'anno successivo a quello nel corso del quale è stata commessa la violazione, ovvero, se non è  prevista dichiarazione periodica, entro 2 anni dal1'omissione o dal1'errore (D.Lgs. 472/97, art. 13, c. 1,  lett. b-bis) e sanzioni pari ad 1/6 del minimo (5,00%), se il versamento è eseguito oltre il termine per la  presentazione della dichiarazione relativa all'anno successivo a quello nel corso del quale è stata  commessa la violazione, ovvero, se non è prevista dichiarazione periodica, oltre 2 anni dall'omissione o  dall'errore (D.Lgs. 472/97, art. 13, c. 1, lett. b-ter); 
+Inoltre è possibile usufruire del "ravvedimento operoso" in caso di omessa presentazione della  dichiarazione, versando una sanzione pari ad 1/10 de1 minimo (10% o 1 2% a seconda del tipo di  dichiarazione), a condizione che questa venga presentata entro 90 giorni dalla scadenza (D.Lgs. 472/97,  art. 13, c. 1, lett. c). 
 
-1. Legge Regionale del 28.01.2014, n.5 - “*Disposizioni programmatiche e correttive per l’anno 2014. Legge di stabilità regionale.*”
-2. Legge Regionale del 07.05.2015, n. 9 - “*Disposizioni programmatiche e correttive per l’anno 2015. Legge di stabilità regionale.*”
-3. Assessorato delle autonomie locali e della funzione pubblica – Circolare n. 5 del 09.03.2017 “*Disposizioni per l’applicazione del comma 1 dell’art. 6 della L.R. n. 5/2014	 e s.m.i., concernente l’obbligo dei Comuni di destinare il 2% dell’assegnazione regionale di parte corrente con forme di democrazia partecipata.*
 
-## Struttura del Regolamento 
+INSERIRE TABELLA
 
-Il presente Regolamento si compone
 
-- **Dal CAPO 1 - “il bilancio in Democrazia Partecipata”, di seguito denominato Bilancio Partecipativo** che coinvolge tutte le persone fisiche residenti nel territorio comunale che abbiano compiuto il diciottesimo anno di età nonché tutte le associazioni, gli enti pubblici e privati che abbiano sede legale e/o operativa nel territorio comunale e che abbiano certi requisiti; 
-- **Dal CAPO 2** – norme finali.
 
-## Art. 1 - Principi e finalità
-
-Il Comune di San Giuseppe Jato rappresenta la comunità di coloro che vivono nel territorio comunale, ne cura gli interessi e ne promuove lo sviluppo. Favorisce, promuovendo la cittadinanza attiva, la partecipazione diretta dei cittadini alle scelte politiche ed amministrative proprie, della Provincia, della Regione Siciliana, dello Stato italiano, delle Comunità Europee. 
-
-Con il presente Regolamento, così come previsto dall’art. 5 dello Stato Comunale, si intende rendere effettivo il diritto alla partecipazione, svolgere in maniera più efficace le proprie funzioni e rendere maggiormente partecipate le proprie decisioni. 
-
-Il Bilancio Partecipativo, per le sue caratteristiche di concretezza e semplicità d’accesso, viene individuato come uno strumento fondamentale per la graduale riforma del rapporto tra cittadini ed istituzioni locali. 
-
-Il Bilancio Partecipato è un percorso che mira a coinvolgere i cittadini per renderli parte attiva di alcune scelte di alcune scelte dell’Amministrazione sia attraverso la condivisione delle proposte sia con il loro voto su tali proposte.
-
-Esso si caratterizza come spazio di confronto fra cittadini e tra cittadini ed amministratori, sia come momento di apprendimento collettivo in cui tutte le parti coinvolte sono chiamate ad approfondire tematiche di interesse collettivo recedendo istanze e 	sollecitazioni diverse, sfruttando la ricchezza della diversità e delle molteplicità dei punti di vista. Oggetto del processo è il bilancio di previsione in quanto strumento di programmazione economica dell’ente che, anche attraverso questo confronto, si rende più leggibile e trasparente.
-
-Il Regolamento per il Bilancio Partecipativo nel processo di partecipazione sono coinvolte tutte le persone fisiche residenti nel territorio comunale che abbiano compiuto il diciottesimo anno d’età, nonché tutte le associazioni, gli enti pubblici e privati che abbiano sede legale e/o operativa nel territorio comunale e che posseggono determinati requisiti;
-
-## Art. 2 - Aventi diritto al voto
-
-La partecipazione è un diritto della popolazione della comunità. 
-
-Sono coinvolti nel processo di partecipazione tutti i soggetti interessati alle politiche di Bilancio del Comune di San Giuseppe Jato, ovvero: tutti i cittadini residenti nel territorio comunale che abbiano compiuto il diciottesimo anno di età.
-
-## Art. 3 - Fasi del Bilancio Partecipativo
-
-Il procedimento di bilancio partecipato si struttura nelle seguenti fasi: 
-
-1. **Prima fase** – Definizione del budget, nel rispetto dell’obbligo imposto dalla L.R. n. 5/2014, art. 6, comma 1;
-2. **Seconda fase** – informazione tramite sito web con Avviso e allegata scheda di preferenza contenente le ipotesi di utilizzo;
-3. **Terza fase** - monitoraggio dei risultati con l’indicazione delle preferenze con apposita presa atto da parte della G.M.
-
-## Art. 4 - Definizione del budget
-
-Il procedimento di bilancio partecipato si struttura nelle seguenti fasi: 
-
-Il Consiglio Comunale definisce una quota del Bilancio di previsione, da utilizzare attraverso il Bilancio Partecipativo. Questa deve essere stabilita in base a quanto disposto sia nella Legge di Stabilità sia nella L. Finanziaria Regionale, oltre al dispositivo della L.R. n. 5/2014 e della Circolare esplicativa n.5/2017 emessa dall’Assessorato delle Autonomie Locali e delle Funzione Pubblica. 
-
-La misura minima è pari al 2% dell’assegnazione di parte corrente per ciascun anno della Regione in favore del Comune. 
-
-I progetti individuati attraverso il voto della cittadinanza avranno carattere vincolante per l’Amministrazione e saranno inseriti all’interno del Bilancio di Previsione o successive variazioni.
-
-## Art. 5 - Informazione
-
-La fase iniziale della partecipazione riguarderà l’informazione che sarà garantita attraverso iniziative finalizzate a realizzare la massima inclusione al processo di Bilancio Partecipato ispirandosi ai criteri di semplicità, intelligibilità, chiarezza.
-
-A tal proposito il Comune di San Giuseppe Jato renderà nota la volontà di coinvolgere la cittadinanza al processo di formazione di una parte del Bilancio di Previsione o successive variazioni. 
-
-L’informazione sarà avviata mediante la pubblicazione di un apposito Avviso Pubblico da far affiggere sul territorio comunale, nonché con l’inserimento dello stesso avviso nella specifica sezione del sito internet del Comune. 
-
-Nell’avviso pubblico dovrà essere specificato:
-
-- Il budget, ossia l’importo per il quale si chiede di esprimere una indicazione in ordine alla destinazione;
-- Scheda di preferenza
-- I soggetti coinvolti nel processo di partecipazione di cui all’art. 2;
-- Le aree tematiche o i progetti per i quali i cittadini possono esprimere proposte o preferenze.
-- I punti di raccolta dove i cittadini potranno esprimere le preferenze.
-
-## Art. 6 - Modalità di espressioni della preferenza
-
-Il cittadino potrà esprimere la preferenza sulle aree tematiche indicate nell’avviso di cui all’art. 8, con apposita scheda allegata all’Avviso, secondo le modalità in esso stabilite. 
-
-Il risultato della consultazione stabilirà l’ordine della priorità delle aree tematiche proposte. 
-
-Tale priorità stabilisce l’ordine degli interventi della Amministrazione Comunale.
-
-## Art. 7 - Criteri di valutazione delle attività
-
-L’amministrazione valuterà le ipotesi di attività da sottoporre alla cittadinanza tenendo conto dei seguenti criteri:
- 
-- Fattibilità tecnica e giuridica degli interventi;
-- Compatibilità rispetto agli atti già approvati dal Comune;
-- Stima dei costi;
-- Stima dei tempi di realizzazione;
-- Priorità stabilite nel DUP;
-- Caratteristica del proseguimento dell’interesse generale;
-- Caratteristica dell’Innovazione;
-- Compatibilità con i settori di intervento e con le risorse finanziarie a disposizione;
-- Rispetto della parità di genere nella misura del 50%;
-
-## Art. 8 - Verbale di partecipazione
-
-Al termine della valutazione della preferenza espressa verrà elaborato un verbale denominato “Documento sulla partecipazione”, dove saranno indicate le procedure avviate e le preferenze che hanno ottenuto le tematiche proposte. 
-
-Il documento sulla partecipazione predisposto sarà approvato dalla Giunta Comunale e costituirà parte del progetto del bilancio di previsione da sottoporre all’approvazione del Consiglio Comunale. Il documento sulla partecipazione sarà consultabile sul sito del Comune.
-
-## Art. 9 - Aree tematiche
-
-Possono essere oggetto del bilancio partecipato le politiche pubblicate relative ad una o più aree tematiche scelte tra le seguenti:
-
-1. TERRITORIO, ECOLOGIA E SANITA’, AMBIENTE
-2. SVILUPPO ECONOMICO E TURISMO
-3. SPAZI AREE VERDI
-4. POLITICHE GIOVANILI
-5. ATTIVITA’ SOCIALI, SCOLASTICHE ED EDUCATIVE, CULTURALI E SPORTIVE
-
-## Art. 10 - Entrata in vigore
-
-1. Il presente regolamento entra in vigore nel giorno successivo alla pubblicazione all’Albo Pretorio della delibera consiliare di approvazione, lo stesso resterà pubblicato <ins>per 30 gg. Consecutivi</ins>.
-2. Il presente regolamento, ai sensi delle vigenti normative, viene pubblicato, altresì, sul sito istituzionale internet di questo Comune.
-
-## Art. 11 - Informativa sul trattamento dei dati personali
-
-Ai sensi dell’art. 13 del Decreto Legislativo 30 Giugno 2003, n.196 all’atto della raccoltà dei dati personali sarà resa l’informativa sulla tipologia dei dati personali, sulle finalità ambito di comunicazione dei dati personali, modalità di trattamento, titolare del trattamento e diritti riconosciuti all’interessato. 
-
-## Art. 12 - Pubblicità del Regolamento
-
-Copia del presente regolamento, a norma dell’art. 22 della Legge 7 agosto 1990, n.241, è tenuta a disposizione del pubblico perché ne possa prendere visione in qualsiasi momento.
-
-## Art. 13 - Revisione del Regolamento
-
-1. Per quanto non previsto nel presente regolamento trovano applicazione le disposizioni di leggi e di regolamenti vigenti in materia. 
-2. La modifica di norme legislative vigenti o l’emanazione di nuove, implicherà la loro immediata applicazione, con adeguamento del presente regolamento da parte del C.C.
+Art. 6 
+Ravvedimento parziale 
+1. È utilizzabile dal Contribuente, con riguardo a tutti i tributi locali, I’istituto del ravvedimento, anche in  caso di versamento frazionato, come disciplinato dagli articoli 13 e 13/bis, comma 1, del decreto  legislativo n. 472/1997, come successivamente integrati e modificati. 
+2. Detto istituto è utilizzabile solo se la violazione non sia stata già contestata e comunque non siano iniziate attività amministrative di accertamento di cui il contribuente abbia avuto formale conoscenza.
+Art. 7 
+Calcolo del ravvedimento operoso 
+Al fine di sanare la propria posizione debitoria, la somma che il contribuente deve versare viene determinata sommando i seguenti valori che vanno versati contestualmente: 
+a) La somma omessa; 
+b) L’importo della sanzione che viene determinata sulla base del precedente articolo; c) Gli interessi maturati giorno per giorno che vengono calcolati al tasso legale con la regola del pro rata temporis. 
+TITOLO III 
+DISPOSIZIONI FINALI 
+Art. 8 
+Norme finali 
+1. Per quanto non espressamente previsto nelle disposizioni regolamentari, si applicano le  disposizioni dilegge vigenti, disciplinanti le diverse materie oggetto del presente atto. 2. Le eventuali modifiche della misura della sanzione per le fattispecie disciplinate dal presente regolamento, si considerano automaticamente aggiornate.
