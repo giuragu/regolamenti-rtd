@@ -1,5 +1,7 @@
 # Regolamento per l'istituzione e la tenuta dell'albo comunale delle associazioni e del volontariato
 
+[Regolamento](https://www.comune.sangiuseppejato.pa.it/amministrazione_trasparente/disposizioni_generali/Atti_generali/atti-amministrativi-generali/regolamento-tenuta-albo-comunale-associazioni-volontariato/regolamento%20tenuta%20albo.pdf) approvato con Deliberazione di C.C. della Commissione Straordinaria e n. 10 del 30/09/2021
+
 ## ART.1 - FINALITA'  
 
 II presente Regolamento disciplina l'istituzione e la tenuta dell'Albo comunale delle associazioni e  del volontariato, ai sensi delle disposizioni dell'art.118 della Costituzione Italiana, del’art..4 del D.Lgs.n° 117 del 3 Luglio 2017 e degli articoli 55 e 56 dello Statuto comunale.  
