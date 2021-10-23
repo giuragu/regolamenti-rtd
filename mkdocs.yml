@@ -36,6 +36,7 @@ theme:
     - search.share
   icon:
      repo: fontawesome/brands/github
+  favicon: images/favicon.ico
   
   
   
@@ -93,10 +94,13 @@ extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/giuragu/regolamenti-rtd
+      name: Repository Github
     - icon: fontawesome/solid/envelope
       link: mailto:comunesangiuseppejato@pec.it
+      name: Posta Certificata Comune San Giuseppe Jato
     - icon: fontawesome/solid/book
-      link: https://readthedocs.org/projects/regolamenti-rtd
+      link: https://regolamenti-rtd.readthedocs.io/en/latest/
+      name: Progetto Read the docs
   
 ## setting dal progetto originale https://github.com/up42/up42-py/blob/master/mkdocs.yml + https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
 
