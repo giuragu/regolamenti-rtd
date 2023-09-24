@@ -3,5 +3,6 @@
 
 ### Regolamenti Comunali del [Comune di San Giuseppe Jato](https://www.comune.sangiuseppejato.pa.it/)
 
+Vengono qui raccolti alcuni Regolamenti del Comune di San Giuseppe Jato. Fonte: [Comune di San Giuseppe Jato - Amministrazione Trasparente - Disposizioni generali - Atti generali - Regolamenti](https://www.comune.sangiuseppejato.pa.it/zf/index.php/atti-generali/index/dettaglio-atto/atto/2)
 
-Vengono qui raccolti alcuni Regolamenti del Comune di San Giuseppe Jato visualizzabili tramite "[Read The Docs](https://readthedocs.org/)". Fonte: [Comune di San Giuseppe Jato - Amministrazione Trasparente - Disposizioni generali - Atti generali - Regolamenti](https://www.comune.sangiuseppejato.pa.it/zf/index.php/atti-generali/index/dettaglio-atto/atto/2)
+Nota: versione aggiornata al 06/2021
